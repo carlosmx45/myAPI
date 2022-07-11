@@ -2,7 +2,7 @@
     "tasks": [
         {
           "id": 1,
-          "title": "Salir de la ecuela",
+          "title": "Salir de la escuela",
           "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas dictum libero, vel tristique odio pulvinar vitae.",
           "lane": 1
         },
