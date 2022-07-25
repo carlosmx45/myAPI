@@ -1,12 +1,10 @@
 {
     "tasks": [
         {
-          "id": 1,
-          "title": "Cartas de Fuego",
-          "color": "Azul",
-          "potencia": 7,
-          "price": 10,
-          "image": "https://i.imgur.com/k4PcEsi.png"
+          "id": 21,
+          "title": "Pasar el Semestre",
+          "body": "hasellus eleifend lacus vitae est ultrices placerat. Nunc at risus id risus venenatis laoreet sit amet cursus neque.",
+          "lane": 1
         },
         {
           "id": 2,
